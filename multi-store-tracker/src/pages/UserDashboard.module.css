@@ -1,0 +1,9 @@
+.app-container {
+    width: 200px;
+    height: max-content;
+}
+.sidebar {
+    width: 100px;
+    height: auto;
+    color:white;
+}
